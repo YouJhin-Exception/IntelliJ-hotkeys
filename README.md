@@ -194,5 +194,3 @@ Ctrl + Shift + Q        В Scala-плагине определяет implicit п
 ```
 
 </details>
-
-![](C:\Users\YouJhin\Desktop\idea.jpg)
