@@ -195,4 +195,4 @@ Ctrl + Shift + Q        В Scala-плагине определяет implicit п
 
 </details>
 
-![](C:\Users\YouJhin\Desktop\idea.jpg)
+![](https://img-blog.csdnimg.cn/img_convert/b50638243a79abe68c125286c21948e0.png)
